@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science,Machine Learning,Artificial Intelligence and dot net Development.
 - 💞️ I’m looking to collaborate on Data Science,Machine Learning,Artificial Intelligence and dot net Development.
 - 📫 Anyone can contact through my mail-marrirohitha@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
